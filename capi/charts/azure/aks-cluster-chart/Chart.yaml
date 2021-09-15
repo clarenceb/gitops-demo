@@ -1,5 +1,0 @@
-apiVersion: v2
-name: aks-cluster
-description: A Helm chart for AKS Cluster 
-
-version: 0.0.7
